@@ -4,4 +4,4 @@ In this project, I designed agents for the classic version of Pacman, including 
 The only file I edited:
 
     multiAgents.py	
-Where all of the multi-agent search agents will reside.
+Where all of the multi-agent search agents reside.
